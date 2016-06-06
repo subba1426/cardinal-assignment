@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Subba
+Class-Path: lib/junit-4.11.jar lib/hamcrest-core-1.3.jar lib/junit-add
+ ons-1.4.jar lib/xercesImpl-2.6.2.jar lib/xmlParserAPIs-2.6.2.jar lib/
+ easymock-3.4.jar lib/objenesis-2.2.jar
+Build-Jdk: 1.8.0_65
+Created-By: Maven Integration for Eclipse
+Main-Class: assignment.GameOfLife
+
